@@ -1,7 +1,7 @@
-Welcome [name],
+Welcome [name] [surname],
 
 This is a kindly reminder that you have
-[missing tasks] tasks left to submit
+tasks: [missing tasks] left to submit
 before you can graduate.
 
 Your current grade is [current grade]
